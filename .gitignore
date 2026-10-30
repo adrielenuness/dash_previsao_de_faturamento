@@ -1,0 +1,14 @@
+# Planilhas e dados da empresa: NUNCA subir para o repositório
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.pbix
+~$*
+*.tmp
+
+# Arquivos do sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
